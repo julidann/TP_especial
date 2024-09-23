@@ -1,2 +1,3 @@
 Creo un archivo simulando servidor de seguridad.
 Modifico seguridad
+La nueva seguridad me da alertas al mail
