@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Archivo nuevo equipo_2.txt
+=======
+Este es el archivo del equipo 2. saldrá conflicto???
+>>>>>>> 4a37dc8576225800388e2b6b3e820eef6ba14ed3
