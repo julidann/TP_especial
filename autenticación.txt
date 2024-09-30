@@ -1,1 +1,2 @@
 Creo nuevo archivo de autenticación.
+Agrego códigos de seguridad.
